@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: katiemei888-github
+    organization: ktran111-github
     token:
       secure: bea712d8e27f2d80d3fdc0a70e61872b820dcde6 
 jdk:
